@@ -15,3 +15,9 @@ Kỹ năng:
 - Lập trình Python cơ bản
 - Làm việc nhóm tốt
 - Giao tiếp hiệu quả
+Kế hoạch học tập:
+- Ôn lại kiến thức Git, GitHub.
+- Luyện tập thêm Python và HTML/CSS.
+- Làm dự án nhỏ hàng tuần để rèn kỹ năng.
+- Học thêm về JavaScript và React.
+- Cập nhật CV cá nhân mỗi khi học được điều mới.
