@@ -1,0 +1,6 @@
+Tính năng A:
+- Ghi chú học tập
+- Theo dõi tiến độ
+- Nhắc nhở học hằng ngày
+- Giao diện dễ dùng
+- Lưu dữ liệu vào file
